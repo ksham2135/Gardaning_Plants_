@@ -2,6 +2,8 @@
 
 A modern, interactive plant care application designed for urban gardening enthusiasts. This project helps users track sunlight, manage plant care, and explore a curated encyclopedia of plants.
 
+Live Demo: View the deployed project here – https://gardaning-plants.vercel.app/
+
 ## Features
 
 - **Dynamic Sunlight Modes**: Interface and plant recommendations adapt to Morning, Noon, and Night settings.
